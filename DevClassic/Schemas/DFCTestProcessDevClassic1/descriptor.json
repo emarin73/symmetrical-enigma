@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a4a46aca-6256-4821-aaea-95ef54170886",
+    "Name": "DFCTestProcessDevClassic1",
+    "ModifiedOnUtc": "\/Date(1718488579000)\/",
+    "Parent": {
+      "UId": "95464244-dabf-4084-95eb-64c4d3973121",
+      "Name": "DFCTestProcess"
+    },
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test process",
+    "DependsOn": []
+  }
+}
