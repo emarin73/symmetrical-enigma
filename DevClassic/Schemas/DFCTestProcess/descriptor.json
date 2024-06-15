@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "95464244-dabf-4084-95eb-64c4d3973121",
+    "Name": "DFCTestProcess",
+    "ModifiedOnUtc": "\/Date(1718483931000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test process",
+    "DependsOn": []
+  }
+}
